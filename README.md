@@ -1,1 +1,1 @@
-# PlotNormalDistribution
+# Plot Normal Distribution
